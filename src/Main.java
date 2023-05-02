@@ -33,6 +33,7 @@ public class Main {
 
         System.out.println(" ");
 
+
         System.out.println("2 способ - целочисленные ");
 
             int[] Weight2 = new int[]{1, 2, 3};
